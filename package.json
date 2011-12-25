@@ -3,6 +3,7 @@
     "version" : "0.0.0",
     "dependencies" : {
         "shp2json" : "0.0.x",
+        "JSONStream" : "0.1.x",
         "canvas" : "0.5.x"
     },
     "scripts" : {
