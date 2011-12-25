@@ -1,0 +1,11 @@
+{
+    "name" : "sf-city-lots",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "shp2json" : "0.0.x",
+        "canvas" : "0.5.x"
+    },
+    "scripts" : {
+        "build" : "build.sh"
+    }
+}
